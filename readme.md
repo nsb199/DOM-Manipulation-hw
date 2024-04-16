@@ -2,7 +2,7 @@ DOM Manipulation Showcase
 
 Welcome to the DOM Manipulation Showcase! This project demonstrates how to change the style of an HTML element using JavaScript. 
 
-The live version of this project can be viewed [here](https://your-hosted-project-link.com).
+The live version of this project can be viewed [here](https://nsb199.github.io/DOM-Manipulation-hw/).
 
 ## Project Overview
 
